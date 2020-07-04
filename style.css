@@ -1,0 +1,92 @@
+/* body section */
+.body_structure
+{
+  color: #fff;
+}
+.heading2
+{
+  font-size: 3rem;
+  text-align: center;
+  padding:30px;
+  margin:0;
+  font-family: 'Volkhov', serif;
+}
+.top
+{
+  background-image:url("theme1.jpg");
+  background-size: cover;
+  text-align: center;
+
+}
+.middle
+{
+background-image:url("theme2.jpg");
+background-size: cover;
+  text-align: center;
+}
+.bottom
+{
+  background-image:url("theme3.jpg");
+  background-size: cover;
+    text-align: center;
+}
+
+/* 1st container */
+.first_container
+{
+  text-align: center;
+}
+.top_container_image
+{
+margin:0;
+border: 20px;
+}
+.top_container_image1
+{
+  width: 60%;
+
+}
+/* 2nd container */
+.cover_photo
+{
+  width:30%;
+  margin: 30px;
+}
+.heading4
+{
+  padding:30px;
+  font-size: 1.5em;
+  margin:0;
+}
+/* 3rd container */
+.skills_img
+{
+  width:20%;
+}
+.heading3
+{
+  padding:20px;
+  font-family: 'Volkhov', serif;
+}
+/* 4th container */
+.testimonial-img
+{
+  width:500px;
+  height:450px;
+  margin-bottom: 30px;
+}
+.heading1
+{
+  padding:50px;
+  font-size: 3.5rem;
+  font-family: 'Volkhov', serif;
+}
+/* 5th container */
+#footer
+{
+padding-top: 20px;
+}
+.śocial-logo
+{
+  margin: 20px;
+}
